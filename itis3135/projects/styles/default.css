@@ -1,0 +1,29 @@
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: darkgoldenrod;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  color: lightgray;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+a {
+  color: lightblue;
+  font-weight: 100;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+ul {
+  line-height: 1.5;
+  margin-bottom: 20px;
+}

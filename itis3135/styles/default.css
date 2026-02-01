@@ -1,4 +1,24 @@
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: darkblue;
+  text-align: center;
+}
+
 body {
   background-color: lightgray;
   color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+a {
+  color: darkgoldenrod;
+  font-weight: 600;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
