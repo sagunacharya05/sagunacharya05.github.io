@@ -16,6 +16,25 @@ body {
 a {
   color: lightblue;
   font-weight: 100;
+  margin-top: 15px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+nav.secondary-menu {
+  margin-top: 15px;
+  border-top: 1px solid white;
+  padding-top: 10px;
+}
+
+nav.secondary-menu a {
+  color: darkgoldenrod;
+  margin: 10px;
+}
+
+p {
+  line-height: 1.5;
+  margin-bottom: 20px;
 }
 
 img {
